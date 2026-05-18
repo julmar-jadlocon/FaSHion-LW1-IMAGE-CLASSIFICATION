@@ -1,6 +1,6 @@
 # FaSHion-LW1-IMAGE-CLASSIFICATION
 
-## Google Collab Link: [https://colab.research.google.com/drive/1ulXXIz0VfsSoTE2njhzKCzGIey7Surxq?usp=sharing](https://colab.research.google.com/drive/1ulXXIz0VfsSoTE2njhzKCzGIey7Surxq?usp=sharing)
+## Google Collab Link: https://colab.research.google.com/drive/1B_D9FoQFEjUjeHNXPUH1bhRWgnuodF5e?usp=sharing
 
 ## 1. What is the Fashion MNIST dataset?
 
